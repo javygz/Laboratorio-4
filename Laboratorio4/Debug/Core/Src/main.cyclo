@@ -1,0 +1,6 @@
+../Core/Src/main.c:67:6:mododec	14
+../Core/Src/main.c:139:6:modoRGB	16
+../Core/Src/main.c:227:5:main	7
+../Core/Src/main.c:317:6:SystemClock_Config	3
+../Core/Src/main.c:365:13:MX_GPIO_Init	1
+../Core/Src/main.c:447:6:Error_Handler	1
